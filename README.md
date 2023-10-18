@@ -1,1 +1,2 @@
-# chaton
+# Resnet
+``` python train.py ```
